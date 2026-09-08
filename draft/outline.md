@@ -6,17 +6,19 @@
 
 | # | ファイル | ページ内容 | 主担当エージェント | 状態 |
 |---|---|---|---|---|
-| 1 | `p01_cover.md` | 表紙＋エグゼクティブサマリー（本計画の位置づけ・3つの柱） | summary-editor | ⬜ |
-| 2 | `p02_current.md` | 木城町の現状（人口・高齢化・行財政・職員体制） | evidence-miner | ⬜ |
-| 3 | `p03_digital.md` | 現状のデジタル環境と既存チャネルの棚卸し | channel-audit | ⬜ |
-| 4 | `p04_national.md` | 国・県の動向と法的要請（DX推進計画5.1版／セキュリティ義務化／標準化） | policy-tracker | ⬜ |
-| 5 | `p05_issues.md` | 課題整理（住民接点の乱立・到達率・職員負荷・高齢化） | hypothesis-keeper | ⬜ |
-| 6 | `p06_vision.md` | ビジョンと基本方針（デジタル未来宣言の具体化・3本柱） | summary-editor | ⬜ |
-| 7 | `p07_app_core.md` | **中核戦略①**：公式アプリを住民サービス基盤に（情報発信＋サービス提供） | app-strategy | ⬜ |
-| 8 | `p08_channel.md` | **中核戦略②**：チャネル集約・到達率向上のロードマップ | app-strategy / channel-audit | ⬜ |
-| 9 | `p09_internal.md` | 内部業務・BPR・標準化対応（職員負荷軽減） | internal-ops | ⬜ |
-| 10 | `p10_security.md` | 情報セキュリティ・ガバナンス（2026年4月義務化対応） | infra-security | ⬜ |
-| 11 | `p11_roadmap.md` | 施策一覧・ロードマップ・推進体制・KPI（担当課／概算費用／初年度工数） | summary-editor | ⬜ |
+| 1 | `p01_cover.md` | 表紙＋エグゼクティブサマリー（本計画の位置づけ・3つの柱） | summary-editor | 🔵 |
+| 2 | `p02_current.md` | 木城町の現状（人口・高齢化・行財政・職員体制） | evidence-miner | 🔵 |
+| 3 | `p03_digital.md` | 現状のデジタル環境と既存チャネルの棚卸し | channel-audit | 🔵 |
+| 4 | `p04_national.md` | 国・県の動向と法的要請（DX推進計画5.1版／セキュリティ義務化／標準化） | policy-tracker | 🔵 |
+| 5 | `p05_issues.md` | 課題整理（住民接点の乱立・到達率・職員負荷・高齢化） | hypothesis-keeper | 🔵 |
+| 6 | `p06_vision.md` | ビジョンと基本方針（デジタル未来宣言の具体化・3本柱） | summary-editor | 🔵 |
+| 7 | `p07_app_core.md` | **中核戦略①**：公式アプリを住民サービス基盤に（情報発信＋サービス提供） | app-strategy | 🔵 |
+| 8 | `p08_channel.md` | **中核戦略②**：チャネル集約・到達率向上のロードマップ | app-strategy / channel-audit | 🔵 |
+| 9 | `p09_internal.md` | 内部業務・BPR・標準化対応（職員負荷軽減） | internal-ops | 🔵 |
+| 10 | `p10_security.md` | 情報セキュリティ・ガバナンス（2026年4月義務化対応） | infra-security | 🔵 |
+| 11 | `p11_roadmap.md` | 施策一覧・ロードマップ・推進体制・KPI（担当課／概算費用／初年度工数） | summary-editor | 🔵 |
+
+> 状態更新 2026-09-08: 全11ページの初稿を執筆（🔵査読待ち）。research/ 確定成果を根拠に作成。次は `/review N` で各ページを3体査読 → 修正 → ✅確定。
 
 > 付録: `research/interview-guide.md`（職員ヒアリング質問票 / interview-designer 担当）は本文には含めず別ファイル。
 
