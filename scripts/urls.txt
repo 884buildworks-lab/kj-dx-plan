@@ -1,0 +1,4 @@
+# 調査対象の公開資料URL（会議録PDF・計画書・統計など）を1行1URLで貼る
+# 空行と # で始まる行は無視される
+# 例:
+# https://www.town.kijo.lg.jp/.../gikai_giji.pdf

@@ -1,0 +1,9 @@
+# PDFビルド生成物
+dist/
+
+# ダウンロードした生資料（大きい・再取得可能。research/ の中間生成物のみ追跡する）
+inputs/*
+!inputs/.gitkeep
+
+# OS/エディタ
+.DS_Store
